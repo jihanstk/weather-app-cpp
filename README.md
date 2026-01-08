@@ -83,7 +83,7 @@ Run the program:
 ║                                                           ║
 ║          🌤️  WEATHER FORECASTING SYSTEM 🌤️               ║
 ║                                                           ║
-║              Department of ECSE - CSE 1290                ║
+║              Department of CSE - CSE 1290                ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 
@@ -182,7 +182,7 @@ make help      # Show available commands
 ## Project Information
 
 **Course:** Software Development – I (CSE 1290)  
-**Department:** ECSE  
+**Department:** CSE  
 **Topic:** Weather Forecasting System  
 
 **Group 09:**

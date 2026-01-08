@@ -3,7 +3,7 @@
 //  * WEATHER FORECASTING SYSTEM - BEGINNER VERSION
 //  * ============================================================
 //  * Course: Software Development – I (CSE 1290)
-//  * Department of ECSE
+//  * Department of CSE
 //  * 
 //  * This simplified version demonstrates:
 //  * - while loops
@@ -159,7 +159,7 @@
 //     printf("\n");
 //     printf("========================================================\n");
 //     printf("          WEATHER FORECASTING SYSTEM                    \n");
-//     printf("          Department of ECSE - CSE 1290                 \n");
+//     printf("          Department of CSE - CSE 1290                 \n");
 //     printf("========================================================\n");
 //     printf("\n");
 // }
@@ -547,7 +547,7 @@
 //     printf("\n");
 //     printf("========================================================\n");
 //     printf("             SIMPLE WEATHER APP                         \n");
-//     printf("          Department of ECSE - CSE 1290                 \n");
+//     printf("          Department of CSE - CSE 1290                 \n");
 //     printf("             Get weather for any city!                  \n");
 //     printf("========================================================\n");
 //     printf("\n");
@@ -913,7 +913,7 @@ void show_title(void) {
     printf("\n");
     printf("========================================================\n");
     printf("             SIMPLE WEATHER APP                         \n");
-    printf("          Department of ECSE - CSE 1290                 \n");
+    printf("          Department of CSE - CSE 1290                 \n");
     printf("             Get weather for any city!                  \n");
     printf("========================================================\n");
     printf("\n");
